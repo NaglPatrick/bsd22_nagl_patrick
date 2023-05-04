@@ -26,3 +26,6 @@ The code for this project was written by Nagl Patrick.
 The last change to the code was made on December 29th, 2022.
 
 Link to [exercise1.md](exercise1.md)
+Link to [exercise2.md](exercise2.md)
+
+Test text because git-reasons
