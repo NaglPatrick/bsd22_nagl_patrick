@@ -25,7 +25,13 @@ The code for this project was written by Nagl Patrick.
 ## Last Change
 The last change to the code was made on December 29th, 2022.
 
-Link to [exercise1.md](exercise1.md)
-Link to [exercise2.md](exercise2.md)
+## Links
 
-Test text because git-reasons
++ Link to [exercise1.md](exercise1.md)
+
++ Link to [exercise2.md](exercise2.md)
+
++ Link to [gitHub-Account](https://github.com/NaglPatrick)
+
++ Link to [Campus02](https://www.campus02.at)
+
