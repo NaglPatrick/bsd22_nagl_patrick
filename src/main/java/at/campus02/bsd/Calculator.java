@@ -14,4 +14,16 @@ public class Calculator {
     public double multiply(double number1, double number2){
         return number1 * number2;
     }
+
+    public double faculty(double number) {
+        return 0;
+//        double result = number;
+//        if (number <= 0) {
+//            return 0;
+//        }
+//        if (number == 1) {
+//            return result;
+//        }
+//        return result * faculty(number - 1);
+    }
 }

@@ -61,4 +61,25 @@ public class CalculatorTest {
     public void testMultiply3() {
         Assertions.assertEquals(42, calc.multiply(4,10.5));
     }
+
+    @Test
+    public void testFaculty1() {
+        Assertions.assertEquals(6, calc.faculty(3));
+    }
+    @Test
+    public void testFaculty2() {
+        Assertions.assertEquals(24, calc.faculty(4));
+    }
+    @Test
+    public void testFaculty3() {
+        Assertions.assertEquals(120, calc.faculty(5));
+    }
+    @Test
+    public void testFaculty4() {
+        Assertions.assertEquals(0, calc.faculty(0));
+    }
+    @Test
+    public void testFaculty5() {
+        Assertions.assertEquals(0, calc.faculty(-3));
+    }
 }
