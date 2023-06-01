@@ -50,6 +50,13 @@ public class CalculatorTest {
         Assertions.assertEquals(-8, calc.divide(16,-2));
     }
     @Test
+    public void testDivideZero() {
+        Assertions.assertThrows(ArithmeticException.class, () -> {
+            calc.divide(5, 0);
+        });
+
+    }
+    @Test
     public void testMultiply1() {
         Assertions.assertEquals(4, calc.multiply(2,2));
     }

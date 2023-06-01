@@ -13,7 +13,7 @@ The main method of the code creates a 3-dimensional array with 4 rows, 4 columns
 
 ## Installation and run
 
-This is a exercise project which can be started directly from the UDI of your choice.
+This is an exercise project which can be started directly from the UDI of your choice.
 
 ## Get involved
 
@@ -39,3 +39,6 @@ The last change to the code was made on December 29th, 2022.
 
 + Link to [Campus02](https://www.campus02.at)
 
+## Log4J
+
+For the log4j2 configuration there is already a template in main/resources to find.
