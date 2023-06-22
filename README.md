@@ -47,6 +47,8 @@ The code for this project was written by Nagl Patrick.
 
 + Link to [exercise5.md](exercise5.md)
 
++ Link to [exercise6.md](exercise6.md)
+
 + Link to [gitHub-Account](https://github.com/NaglPatrick)
 
 + Link to [Campus02](https://www.campus02.at)
