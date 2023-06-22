@@ -3,7 +3,10 @@ package at.campus02.bsd;
 //import java.util.logging.LogManager;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-
+/** the Main class has the main method to call the methods from Calculator
+ *
+ * @author Patrick Nagl
+ * */
 public class Main {
     private static Logger logger = LogManager.getLogger();
     public static void main(String[] args) {
